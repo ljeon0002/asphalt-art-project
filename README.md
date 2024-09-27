@@ -26,11 +26,11 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   In this project, I program I painter to assemble pixel art on a 32x32 grid of "Charmander," with the ability to edit various colors. 
+   In this project, I program the painter to assemble pixel art on a 32x32 grid of "Charmander," with the ability to edit various colors. 
 
 2. What are two things about your project that you are proud of?
 
-   I'm that the art turned out as it did. It looks like Charmander and is of satisfactory detail.
+   I'm happy that the art turned out as it did. The art looks like Charmander and is of satisfactory detail.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
